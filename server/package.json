@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Node is an innovative application that allows users to schedule their daily tasks through a visually appealing and intuitive calendar interface.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaurya35/Node-Scheduler.git"
+  },
+  "author": "shaurya35",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shaurya35/Node-Scheduler/issues"
+  },
+  "homepage": "https://github.com/shaurya35/Node-Scheduler#readme"
+}
